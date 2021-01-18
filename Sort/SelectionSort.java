@@ -31,12 +31,3 @@ public class SelectionSort {
         }
     }
 }
-
-public class SelectionSort {
-    /*
-        i와 j의 위치에 있는 값을 바꾼다.
-     */
-    public static void swapElements(int[] array, int i, int j) {
-        int temp = array[i];
-        array[i] = array[j];
-        array
