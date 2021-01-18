@@ -63,5 +63,4 @@ public class SelectionSort {
             int j = indexLowest(array, i);
             swapElements(array, i, j);
         }
-    }
-}
+    
