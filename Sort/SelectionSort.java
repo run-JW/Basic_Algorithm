@@ -52,8 +52,5 @@ public class SelectionSort {
                 lowIndex = i;
             }
         }
-        return lowIndex;
-    }
-    
-    /*
+        return l
     선택 정렬을 사용
