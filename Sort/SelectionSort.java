@@ -43,7 +43,3 @@ public class SelectionSort {
     }
     
     /*
-    start부터 시작하는 최솟값의 위치를 찾고 배열의 마지막 위치로 간다.
-     */
-    public static int indexLowest(int[] array, int start) {
-        int lowIndex = sta
