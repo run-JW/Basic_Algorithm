@@ -60,7 +60,5 @@ public class SelectionSort {
      */
     public static void selectionSort(int[] array) {
         for(int i = 0; i < array.length; i++) {
-            int j = indexLowest(array, i);
-            swapElements(array, i, j);
-        }
+            int j =
     
