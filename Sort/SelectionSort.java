@@ -56,7 +56,4 @@ public class SelectionSort {
     }
     
     /*
-    선택 정렬을 사용하여 요소 정렬
-     */
-    public static void selectionSort(int[] array) {
-        for(int i = 0;
+    선택 정렬을 사용
