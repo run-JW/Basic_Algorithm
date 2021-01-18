@@ -47,7 +47,7 @@ public class SelectionSort {
      */
     public static int indexLowest(int[] array, int start) {
         int lowIndex = start;
-        for(int i = start; i < array.length; i++) {
+        for(int i = start; i < arry.length; i++) {
             if(array[i] < array[lowIndex]) {
                 lowIndex = i;
             }
